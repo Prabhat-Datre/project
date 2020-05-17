@@ -1,0 +1,62 @@
+h1{
+	font-family: Montserrat;
+	text-align: center;
+	background-color: aquamarine;
+	color: black;
+	padding: 30px;
+}
+hr{
+	border:2px solid black;
+	width: 80%;
+	color: 
+}
+p{
+	font-family: Montserrat;
+	margin-left: 125px;
+	margin-right: 125px;
+	margin-bottom: 50px;
+	padding: 20px;
+	text-align: justify;
+}
+a{
+	text-align: justify;
+	color: red; 
+}
+img{
+	border-radius: 50%;
+	width:35%;
+	margin-top: 50px;
+}
+li{
+	list-style: none;
+	display: inline;
+	margin: 100px;
+}
+li a{
+	color: aquamarine;
+	text-decoration: none;
+	font-family: Montserrat;
+	font-size: 20px;
+}
+li a:hover{
+	color:red;
+	text-decoration: none;
+	font-family: Montserrat;
+}
+header{
+	background-color: black;
+	padding:20px;
+}
+footer{
+	font-family: Montserrat;
+	text-align: center;
+	background-color: aquamarine;
+	color: black;
+	padding: 10px;
+}
+div{
+text-align: center;
+}
+body{
+	background-image:url(https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-sky-water-color-background-image_58447.jpg)
+	}
